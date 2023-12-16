@@ -23,3 +23,25 @@ These instructions will help you set up and run the Saraha App on your local mac
 
    ```bash
    git clone https://github.com/Mahmovdsayed/saraha-app.git
+   ```
+
+Navigate to the project directory:
+
+```bash
+cd saraha-app
+```
+Install dependencies:
+
+```bash
+npm install
+```
+Set up MongoDB:
+
+Make sure MongoDB is running locally or update the MongoDB URI in the configuration.
+Start the application:
+
+```bash
+npm start
+```
+Access the Saraha App at http://localhost:3000 in your browser.
+
