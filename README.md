@@ -21,7 +21,7 @@ These instructions will help you set up and run the Saraha App on your local mac
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/Mahmovdsayed/saraha-app.git
    ```
 
